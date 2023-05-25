@@ -1,4 +1,4 @@
-# Project 1 - Recisited
+# Project 1 - Revisited
  
 ![RF Coefficients](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/cdd0966c-8f04-4ac8-848a-a80fc405a4e0)
 ### Top 3 most impactful features
