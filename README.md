@@ -19,3 +19,6 @@
 * Item Visibility
 * Outlet Type Supermarket Type 3
 * Item Weight
+
+
+![SHAP RF](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/00f86e27-5013-4c03-a89d-c475175ff701)
