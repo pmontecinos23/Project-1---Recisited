@@ -1,14 +1,17 @@
 # Project 1 - Revisited
  
-![RF Coefficients](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/cdd0966c-8f04-4ac8-848a-a80fc405a4e0)
+![LR Coefficients](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/5d98a9ec-2831-4a29-a9e8-26aea0ccd260)
+
 ### Top 3 most impactful features
 
 * Supermarket Type3
 * Supermarket Type1
 * Supermarket Type2
 
+![RF FI](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/27540a33-2b62-491d-be00-7147f8ec2865)
 
-![LR Coefficients](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/a376364b-2529-4217-af72-a480402483b8)
+![RF PI](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/7a6ab437-fc58-42e9-b193-679e0506243b)
+
 
 ### Top 5 most important features
 * Item MRP
