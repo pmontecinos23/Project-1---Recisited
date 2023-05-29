@@ -37,3 +37,25 @@
 * Item Visibility
 * Outlet Type Supermarket Type 3
 * Item Weight
+
+
+![ShapBar RF](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/cb8d0423-f5ea-4be2-8d13-28773559af2d)
+
+### Comparison SHAP vs orginal features:
+* The top 5 remained the same however Item Visibility and Supermarket Type 3 changed places. 
+* Item weight decreased in comparison to the orginal features. 
+
+
+![ShapDot RF](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/7bbdcfdc-e76f-4823-a9ce-f676b09d3459)
+
+### Top 3 most important features based on the ShapDot plot
+* Item MRP
+    - Shows higher the MRP of an item increased our target
+* Outlet Type Grocery Store
+    - Grocery stores tend to decrease our target
+
+* Outlet Type Supermarket Type 3
+    - Type 3 increases our target 
+
+
+
