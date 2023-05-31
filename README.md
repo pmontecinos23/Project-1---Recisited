@@ -59,3 +59,44 @@
 
 
 
+![FP MRP](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/6a12a73c-aff3-47b2-bd7b-eb8084b06952)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Lime MRP](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/c198c21c-fe2e-4c70-85f8-9ea97b84692b)
+
+
+
+
+
+
+
+
+![FP Grocery Store](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/04c94823-260c-4592-8131-6a429c56d13e)
+
+
+
+
+
+
+![Lime Grocery Store](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/fb42b636-f0af-4a7c-bc0c-38a577bdcf0f)
+
+
+
+
+
+
+
+
+
+
