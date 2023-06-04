@@ -58,38 +58,62 @@
     - Type 3 increases our target 
 
 
+![FP MRP](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/7dcc0e8d-8859-4009-95e9-05316d7deb32)
 
-![FP MRP](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/6a12a73c-aff3-47b2-bd7b-eb8084b06952)
-
-
-
-
+### Interpretation
+ * The higher the MRP the more it pushes the target higher and at the same time the outlet type grocery store pushes the target lower
 
 
 
+![FP MRP Min](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/fe5ad3c6-e2ca-4f66-b7aa-da5589104640)
+
+### Interpretation
+ * The lower the MRP decreases out target, while the outlet type not being equal to the grocery store actually increases our target.
 
 
 
+![Lime MRP](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/d0e001c8-81b3-485f-90b3-42ad87dd4b1a)
+
+### Interpretation
+ * Using the Lime interpretation above we can see that higher sales predictions are positively impacted when the MRP is greater than 183.88, while also being negatively impacted by the Grocery store outlet type
 
 
 
-![Lime MRP](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/c198c21c-fe2e-4c70-85f8-9ea97b84692b)
+![Lime MRP min](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/90d48374-f8cf-4dac-a717-150c783ad688)
 
-
-
-
-
-
-
-
-![FP Grocery Store](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/04c94823-260c-4592-8131-6a429c56d13e)
-
-
+### Interpretation
+ * Using the Lime interpretation above we can see that higher sales predictions are negatively impacted when the MRP is equal to or lower than 98.58, while also being positively impacted by the Grocery store outlet type
 
 
 
 
-![Lime Grocery Store](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/fb42b636-f0af-4a7c-bc0c-38a577bdcf0f)
+![FP IV Max](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/bc8166d0-d682-40b9-8c2d-b7f1650224f1)
+
+### Interpretation
+ * The higher the item visualization the more it pushes the target higher and at the same time the outlet type grocery store pushes the target lower
+
+
+![FP IV Min](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/a9230476-0002-45af-a8ac-1a220547b2cf)
+
+### Interpretation
+ * The lower the item visualization the more it pushes the target higher however not by much and at the same time the outlet type grocery store pushes the target lower
+
+
+![Lime Viz Max](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/5884ab5a-d170-417e-aca4-a90e0bdb1a44)
+
+### Interpretation
+ * The items with the highest visibility are positively impacted by higher item MRPs while they tend to be negatively impacted by the outlet types
+
+
+
+
+![Lime Viz Min](https://github.com/pmontecinos23/Project-1---Revisited/assets/29460152/6db28a52-50d5-43ef-9617-eb4d89373799)
+
+### Interpretation
+ * The items with the lowest visibility are negatively impacted by almost every other column with the exception of outlet type supermarket
+
+
+
 
 
 
